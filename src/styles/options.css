@@ -1,0 +1,6 @@
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  box-shadow: rgb(28, 114, 28) 2px 4px 10px 7px;
+}

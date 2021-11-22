@@ -1,0 +1,14 @@
+button {
+  width: 35px;
+  height: 35px;
+  padding: 0;
+  border-width: 0;
+  cursor: pointer;
+  margin: 5px 3px;
+  border-radius: 10px;
+  background-color: forestgreen;
+}
+img {
+  width: 25px;
+  height: 25px;
+}
