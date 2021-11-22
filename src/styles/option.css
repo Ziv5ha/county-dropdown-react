@@ -1,0 +1,11 @@
+option {
+  width: 100%;
+  height: 23px;
+  background-color: rgb(43, 170, 43);
+  cursor: pointer;
+  margin: 0;
+  font-size: 21px;
+}
+option:hover {
+  background-color: forestgreen;
+}
